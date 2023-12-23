@@ -1,0 +1,8 @@
+## Interface: 11403
+## Title: ItemLevel
+## Notes: Adds the item level and other properties of items to the tooltip.
+## Version: 1.0.0
+## Author: Ben Brookes
+## DefaultState: Enabled
+
+ItemLevel.lua
